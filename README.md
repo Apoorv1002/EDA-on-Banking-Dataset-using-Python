@@ -26,7 +26,7 @@ Citation: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Appr
 How to run this project?
 This project can be run on Google Colab by executing the following steps:
 1. Go to 'https://colab.research.google.com/'.
-2.Click on File -> Open Notebook.
+2. Click on File -> Open Notebook.
 3. Select GitHub.
 4. Enter this url : https://github.com/Apoorv1002 .
 5. Click on the search icon right next to the above url.
