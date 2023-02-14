@@ -5,7 +5,7 @@ Exploratory Data Analysis is an integral part of any Data Analytics and Data Ana
 
 Language Used : 
 Python is a very powerful high level programming language. It provides several free open source libraries that extend its capabilities - 'pandas' is one such library. 'pandas' is the standard choice for exploring, analyzing and manipulating data. In this project, I have tried to familiarize myself with the building blocks of 'pandas' library - pandas data frames and pandas series. I have also applied various pandas methods and data frame attributes known to me to conduct a preliminary investigation 
-on this medical dataset. This investigation has helped me generate some valuable insights into the dataset - leaving me with my first taste of practical Data Science.
+on this banking dataset. This investigation has helped me generate some valuable insights into the dataset - leaving me with my first taste of practical Data Science.
 
 Insights Generated :
 What is the share of clients attracted in our source data? (Helps calculate the efficacy of current business model, and if changes are needed to be made)
